@@ -14,13 +14,20 @@ body {
 	min-width: 100%;
 	min-height: 800px;
 	background: #1D1D29;
-
 }
 
 h1 {
 	font-size:14pt;
 	font-weight: 700;
 }
+
+h1.after {
+	background-color: #9E373B;
+	margin: -10px 0px -5px 7.5px;
+	padding: -2px 0;
+	border: 1px solid #9E373B;
+}
+
 
 
 p {
@@ -78,7 +85,7 @@ li {
 
 /* Table styling */
 table {
-	width: 80%;	
+	width: 80%;
 	font-size: 10pt;
 	margin: 10px;
 	border-collapse: collapse;
@@ -121,7 +128,7 @@ td {
 
 }
 
-/* Page centering */ 
+/* Page centering */
 #wrap {
 	min-width: 475px;
 	max-width: 800px;
@@ -137,10 +144,10 @@ td {
 	width: 100%;
 	min-width: 400px;
 	background-image: url("images/bg.jpg");
-	background-repeat: no-repeat; 
+	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
-	background-attachment: center; 
+	background-attachment: center;
 	position: static;
 	color: #FFFFFF;
 	border-bottom: 3px solid #9E373B;
@@ -175,12 +182,12 @@ td {
 	width: 140px;
 	height: 100%;
 	z-index: 100;
-	
+
 }
 
 #navbar li{
 	position: left;
-	list-style-type: none;	
+	list-style-type: none;
 	padding: 0.5em;
 }
 
@@ -206,16 +213,16 @@ td {
 	position:absolute;
 	bottom: 0;
 	overflow: hidden;
-	width: 100%;	
+	width: 100%;
 	color: gray;
 	height: auto;
 	text-align: center;
 }
-  
+
 #footer p{
 	font-size: 10pt;
 	margin: auto;
-	text-align: center;	
+	text-align: center;
 	color: gray;
 }
 
@@ -239,7 +246,7 @@ td {
 
 #banner {
 	position: relative;
-	left: 140px;	
+	left: 140px;
 	top: auto;
 	margin-bottom: -20px;
 	background-color: #1D1D29;
@@ -267,7 +274,7 @@ td {
 	padding-top: 1%;
 	padding-bottom: 10px;
 	border-radius: 10px;
-	
+
 }
 
 #content p{
@@ -282,7 +289,7 @@ td {
 }
 
 #content h1{
-	font: "Open Sans", Arial, sans-serif; 
+	font: "Open Sans", Arial, sans-serif;
 	padding: 0 0 0 7.5px;
 }
 
@@ -296,7 +303,7 @@ td {
 	width: 95%;
 	background-color: #9E373B;
 	margin: -10px 0px -5px 7.5px;
-	padding: -2px 0; 
+	padding: -2px 0;
 	border: 1px solid #9E373B;
 }
 
@@ -348,4 +355,3 @@ td {
 	text-size: 8pt;
 	text-align: center;
 }
-
