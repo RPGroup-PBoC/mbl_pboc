@@ -1,8 +1,0 @@
-# Testing markdown in atom
-
-## This should be an H2 header.
-
-This should be normal text with **bold**, *italics*, ~~strikethrough~~, and of
-course, math:
-
-$\frac{dm}{dt} = r - \gamma m$
