@@ -4,5 +4,6 @@
 *.pyc
 __pycache__
 data/
+tmp/
 src/.ipynb_checkpoints/*
 *m~
