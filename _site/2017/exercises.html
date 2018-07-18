@@ -1,0 +1,154 @@
+<DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+    		<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+		<link rel='stylesheet' type='text/css' href='styles.css'/>
+		<style type="text/css"></style>
+		<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,700, 700italic, 300italic,400italic,600' rel='stylesheet' type='text/css'>
+		<link href='https://fonts.googleapis.com/css?family=Fira+Sans:400,500' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css">
+
+	<!-- Code for Google Analytics Information -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-71556839-4', 'auto');
+  ga('send', 'pageview');
+</script>
+	<!-- End of Google Analytics information -->
+
+	</head>
+
+	<title> Exercises | PBoC @ MBL 2017</title>
+
+	<body >
+		<div id="container">
+		<div id="header">
+			<h1> PHYSICAL BIOLOGY OF THE CELL | MBL 2017
+</h1>
+		</div>
+	<div id="navbar">
+		<li> <a href="index.html"><i class="fa fa-home "></i> Main </a></li>
+		<li> <a href="people.html"><i class="fa fa-users "></i> People </a></li>
+		<li> <a href="talks.html"><i class="fa fa-calendar "></i> Daily Talks </a></li>
+		<li class="current"><i class="fa fa-code "></i> Exercises </li>
+		<li> <a href="files.html"><i class="fa fa-briefcase "></i> Readings </a></li>
+		<li> <a href="https://github.com/rpgroup-pboc/mbl_pboc_2016"><i class="fa fa-github-square"></i> git repo </a></li>
+	</div>
+	<div id="banner"><i class="fa fa-inverse fa-code"></i> exercises</div>
+		<div id="content">
+
+		<h1> Data Sets </h1>
+		<hr />
+		<div id="file-links">
+        <li><a href="http://www.rpgroup.caltech.edu/course_data/Stage_Micrometer_63x.tif">Images of a graticule.</a> </li>
+		<li><a href="http://www.rpgroup.caltech.edu/courses/pboc_data_sets/cephalic_furrow.zip">Example images of the fly embryo cephalic furrow</a></li>
+		<li><a href="http://www.rpgroup.caltech.edu/courses/pboc_data_sets/fly_elongation.zip">
+			Example images of the fly elongation rate</a></li>
+		<li><a href="http://www.rpgroup.caltech.edu/courses/pboc_data_sets/colony_growth_v02.zip">
+			Example movie of a growing <i>E. coli</i> colony</a></li>
+		<li><a href="http://www.rpgroup.caltech.edu/courses/pboc_data_sets/ecoli_growth.csv">CSV file of <i>E. coli</i> growth areas</a></li>
+		<li><a href="http://www.rpgroup.caltech.edu/courses/pboc_data_sets/lacI_sample_set_Hernan.zip">
+			Example images for lacI titration</a></li>
+        <li><a href="http://www.rpgroup.caltech.edu/course_data/PBoC2017_lacI_titration.zip">
+			Complete data set for lacI titration experiment</a></li>
+		<li><a href="http://bois.caltech.edu/bootcamp/WT_dryrun_intensities.csv">
+				Wild type repression experiment intensities</a></li>
+		<li><a href="http://www.rpgroup.caltech.edu/courses/pboc_data_sets/repression_results.csv">CSV file of mean integrated intensities from LacI experiment</a></li>
+        <li><a href="http://www.rpgroup.caltech.edu/courses/pboc_data_sets/bacillus.avi"><i>B. subtilis</i> growth movie</a></li>
+        <li><a href="http://www.rpgroup.caltech.edu/courses/pboc_data_sets/CellScope_cephalic_furrow.zip"> In-class Cell Scopes images of the early fly embryo</a></li>
+        <li><a href="http://www.rpgroup.caltech.edu/courses/pboc_data_sets/actin_filaments_02.zip"> Fluorescent images of actin filaments</a></li>
+        <li><a href="http://www.rpgroup.caltech.edu/courses/pboc_data_sets/PerrinData.tif"> Jean Perrin, <i>Les atomes</i> (1913) original data</a></li>
+        <li><a href="http://www.rpgroup.caltech.edu/courses/PBoC_GIST_2016/data_sets/Beaddata_sample.zip ">
+			Optical trap images</a></li>
+
+	</div>
+	<br/>
+		<h1> In class tutorials </h1>
+		<hr />
+        <div id='file-links'>
+        <li>
+            <b>Growth movie analysis</b> | 
+            <a href="src/inClass_growth_movie_analysis.m">[ in class m-file ]</a>
+        </li>
+        <li>
+            <b>Spread the butter (Diffusion)</b> | 
+            <a href="src/inClass_spread_the_butter.m">[ in class m-file ]</a>
+            <a href="src/diffusion_spread_the_butter.html">[ extra_tutorial html ]</a>
+            <a href="src/diffusion_spread_the_butter.mlx">[ extra_tutorial mlx ]</a>
+        </li>
+        <li>
+            <b>FRAP the butter (Diffusion)</b> | 
+            <a href="src/inClass_frap_the_butter.m">[ in class m-file ]</a>
+        </li>
+        <li>
+            <b>Tubulin size distribution</b> | 
+            <a href="src/inClass_tubulin_distribution.m">[ in class m-file ]</a>
+            <a href="src/data/tubulinExample_80min_20uM_03.tif">[ example_image ]</a>
+        </li>
+
+        <li>
+            <b>Gene expression Analysis</b> | 
+            <a href="src/inClass_lacItitration.m">[ in class m-file ]</a>
+            <a href="src/eColiSegmentation.m">[ threshold_segmentation function ]</a>
+            <a href="src/LogSegmentation.m">[ edge_detection_segmentation funciton ]</a>
+        </li>
+
+        <li>
+            <b>Gene expression Live-Script tutorial</b> | 
+            <a href="src/lacI_titration_part01.mlx">[ part 1 mlx ]</a>
+            <a href="src/lacI_titration_part01.html">[ part 1 html ]</a> |
+            <a href="src/lacI_titration_part02.mlx">[ part 2 mlx ]</a>
+            <a href="src/lacI_titration_part02.html">[ part 2 html ]</a> |
+            <a href="src/lacI_titration_part03.mlx">[ part 3 mlx ]</a>
+            <a href="src/lacI_titration_part03.html">[ part 3 html ]</a> |
+            <a href="src/lacI_titration_part04.mlx">[ part 4 mlx ]</a>
+            <a href="src/lacI_titration_part04.html">[ part 4 html ]</a>
+        </li>
+
+        <li>
+            <b>Optical trap calibration</b> | 
+            <a href="src/inClass_optical_trap.m">[ in class m-file ]</a>
+        </li>
+
+        <li>
+            <b>Taylor expansion plot</b> | 
+            <a href="src/inClass_Taylor_expansion.m">[ in class m-file ]</a>
+        </li>
+
+        <li>
+            <b>French flag model</b> | 
+            <a href="src/inClass_French_flag.m">[ in class m-file ]</a>
+            <a href="src/data/Liu2013CFMeasurements.csv">[ CSV file with data ]</a>
+        </li>
+
+
+
+
+
+
+
+
+	<br/>
+		<h1> Extra tutorials </h1>
+		<hr />
+		<div id='file-links'>
+		<li><a href="http://www.rpgroup.caltech.edu/courses/Physiology%20Matlab%202015/files_2015/Matlab%20Introduction.pdf">Introduction to Matlab</a></li>
+			<li><a href="http://www.rpgroup.caltech.edu/courses/Physiology%20Matlab%202015/files_2015/Odes%20and%20Stochastics%20with%20Matlab.pdf"> ODEs and Stochastics with Matlab</a>  </li>
+			<li><a href="http://www.rpgroup.caltech.edu/courses/Physiology%20Matlab%202015/files_2015/Image%20Analysis%20with%20Matlab.pdf">Image analysis with Matlab</a> </li>
+			<li><a href="http://bois.caltech.edu/bootcamp/growth_curve_estimation.pdf" target="_blank"><i>E. coli</i> growth</a> (<a href="http://www.rpgroup.caltech.edu/courses/pboc_data_sets/colony_growth_v02.zip" target="_blank">images</a>, <a href="http://www.rpgroup.caltech.edu/courses/pboc_data_sets/ecoli_growth.csv" target="_blank">data set</a>)</li>
+			<li><a href="http://bois.caltech.edu/bootcamp/estimate_of_mean.pdf" target="_blank">Estimate of mean expression level</a> (<a href="http://bois.caltech.edu/bootcamp/WT_dryrun_intensities.csv" target="_blank">data set</a>)</li>
+			<li><a href="http://bois.caltech.edu/bootcamp/regression.pdf" target="_blank">Gene expression regression</a> (<a href="http://www.rpgroup.caltech.edu/courses/pboc_data_sets/2016-05-13_tal_dryrun.zip" target="_blank">data set</a>)</li>
+		</div>
+		<br />
+		<h1> Exercises </h1>
+		<hr />
+		<div id="file-links">
+			<li>
+                <p></p>
+		</div>
+	</body>
+</html>
