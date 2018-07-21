@@ -20,11 +20,20 @@ Instructors:
     title: Professor
     loc: Brandeis University
     email: kondev [at] brandeis.edu
+  - name: Lena Koslover 
+    img: lena.png
+    title: Professor
+    email: ekoslover [at] physics.ucsd.edu
   - name: Phil Nelson
     img: philnelson.jpg
     title: Professor
     loc: University of Pennsylvania
     email: nelson [at] physics.upenn.edu
+  - name: Frank Jülicher
+    img: frank.png
+    title: Professor
+    loc: Max-Planck-Institute
+    email: julicher [at] pks.mpg.de
 Teaching Assistants:
   - name: Elizabeth Eck
     img: liz.jpg
@@ -59,6 +68,6 @@ Teaching Assistants:
 Course Assistants:
   - name: Emma Luu
     img: emma.jpg
-    title: Undergraduate
+    title: Junior Lab Technician
     loc: UC Berkeley
-    email:
+    email: emma_luu [at] berkeley.edu
