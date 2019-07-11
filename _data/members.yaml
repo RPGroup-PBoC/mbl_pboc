@@ -9,66 +9,9 @@ Directors:
     title: Assistant Professor
     loc: UC Berkeley
     email: hggarcia [at] berkeley.edu
+    
 Instructors:
-  - name: Julie Theriot
-    img: julie.jpg
-    title: Professor
-    loc: Stanford University 
-    email: theriot [at] stanford.edu 
-  - name: Jane Kondev
-    img: jane.jpg
-    title: Professor
-    loc: Brandeis University
-    email: kondev [at] brandeis.edu
-  - name: Lena Koslover 
-    img: lena.png
-    title: Professor
-    loc: UC San Diego
-    email: ekoslover [at] physics.ucsd.edu
-  - name: Phil Nelson
-    img: philnelson_cropped.png
-    title: Professor
-    loc: University of Pennsylvania
-    email: nelson [at] physics.upenn.edu
-  - name: Frank Jülicher
-    img: frank.png
-    title: Professor
-    loc: Max-Planck-Institute
-    email: julicher [at] pks.mpg.de
+
 Teaching Assistants:
-  - name: Elizabeth Eck
-    img: liz.jpg
-    title: Graduate Student
-    loc: UC Berkeley
-    email: eeck [at] berkeley.edu 
-  - name: Meghan Turner
-    img: meghan.jpg
-    title: Graduate Student
-    loc: UC Berkeley
-    email: meghan_turner [at] berkeley.edu
-  - name: Manuel Razo-Mejia 
-    img: manuel.jpg
-    title: Graduate Student
-    loc: Caltech
-    email: mrazomej [at] caltech.edu
-  - name: Heun Jin Lee
-    img: heunjin.jpg
-    title: Staff Scientist
-    loc: Caltech
-    email: heunjin [at] caltech.edu
-  - name: Griffin Chure
-    img: gchure.png
-    title: Graduate Student
-    loc: Caltech
-    email: gchure [at] caltech.edu
-  - name: Rachel Banks
-    img: rbanks.jpg
-    title: Graduate Student
-    loc: Caltech
-    email: rbanks [at] caltech.edu
+
 Course Assistants:
-  - name: Emma Luu
-    img: emma.jpg
-    title: Junior Lab Technician
-    loc: UC Berkeley
-    email: emma_luu [at] berkeley.edu
