@@ -7,3 +7,4 @@ data/
 tmp/
 src/.ipynb_checkpoints/*
 *m~
+_site/*
