@@ -1,17 +1,142 @@
 Directors:
   - name: Rob Phillips
-    img: rob.jpg
+    img: 1rob.png
     title: Professor
     loc: Caltech
     email: phillips [at] pboc.caltech.edu
   - name: Hernan Garcia
-    img: hernan.jpg
+    img: 2hernan.jpg
     title: Assistant Professor
     loc: UC Berkeley
     email: hggarcia [at] berkeley.edu
-    
+
 Instructors:
+  - name: Julie Theriot
+    img: 3theriot.jpg
+    title: Professor
+    loc: University of Washington
+    email: jtheriot [at] uw.edu
+  - name: Jane Kondev
+    img: 4kondev.jpg
+    title: Professor
+    loc: Brandeis University
+    email: kondev [at] brandeis.edu
+  - name: Sarah Keller
+    img: 5keller.jpg
+    title: Professor
+    loc: University of Washington
+    email: slkeller [at] chem.washington.edu
+  - name: Jonathan Howard
+    img: 6howard.jpg
+    title: Professor
+    loc: Yale University
+    email: jonathan.howard [at] yale.edu
+  - name: Alvaro Sanchez
+    img: 7sanchez.png
+    title: Assistant Professor
+    loc: Yale University
+    email: alvarosanchezda [at] gmail.com
+  - name: Jasna Brujic
+    img: 8brujic.jpg
+    title: Associate Professor
+    loc: New York University
+    email: jasna.brujic [at] nyu.edu
+  - name: Phil Nelson
+    img: 9nelson.jpg
+    title: Professor
+    loc: University of Pennsylvania
+    email: pcn [at] physics.upenn.edu
+  - name: Nathan Belliveau
+    img: 10belliveau.jpg
+    title: Postdoctoral Research Associate
+    loc: Howard Hughes Medical Institute, University of Washington
+    email: nbellive [at] uw.edu
 
-Teaching Assistants:
-
-Course Assistants:
+Research Facilitators:
+  - name: Jordan Xiao
+    img: 11jordan.jpg
+    title: Undergraduate Student
+    loc: UC Berkeley
+    email: xiao.jordan [at] berkeley.edu
+  - name: Yang Joon Kim
+    img: 12kim.jpg
+    title: Graduate Student
+    loc: UC Berkeley
+    email: yjkim90 [at] berkeley.edu
+  - name: Nick Lammers
+    img: 13lammers.jpg
+    title: Graduate Student
+    loc: UC Berkeley
+    email: nlammers [at] berkeley.edu
+  - name: Ben Kuznets-Speck
+    img: 14speck.png
+    title: Graduate Student
+    loc: UC Berkeley
+    email: ben_kuznets-speck [at] berkeley.edu
+  - name: Soichi Hirokawa
+    img: 15hirokawa.jpg
+    title: Graduate Student
+    loc: Caltech
+    email: shirokaw [at] caltech.edu
+  - name: Muir Morrison
+    img: 16morrison.jpg
+    title: Graduate Student
+    loc: Caltech
+    email: muir [at] caltech.edu
+  - name: Vahe Galstyan
+    img: 17galstyan.jpg
+    title: Graduate Student
+    loc: Caltech
+    email: vgalstya [at] caltech.edu
+  - name: Suzy Beeler
+    img: 18beeler.jpg
+    title: Graduate Student
+    loc: Caltech
+    email: sbeeler [at] caltech.edu
+  - name: Rikki Garner
+    img: 19garner.jpg
+    title: Graduate Student
+    loc: University of Washington
+    email: rmgarner [at] uw.edu
+  - name: Joseph Rauch
+    img: 20rauch.jpg
+    title: Graduate Student
+    loc: Caltech
+    email: jwrauch [at] brandeis.edu
+  - name: Caitlin Cornell
+    img: 21cornell.jpg
+    title: Research Assistant
+    loc: University of Washington
+    email: cornec2 [at] uw.edu
+  - name: Pablo Sartori
+    img: 22sartori.jpg
+    title: Postdoctoral Fellow
+    loc: Rockefeller University
+    email: psartori [at] mail.rockefeller.edu
+  - name: Chang-Yu Chang
+    img: 23chang.jpg
+    title: Graduate Student
+    loc: Yale University
+    email: chang-yu.chang [at] yale.edu
+  - name: Jean Vila
+    img: 24vila.jpg
+    title: Graduate Student
+    loc: Yale University
+    email: jean.vila [at] yale.edu
+  - name: Grant Rotskoff
+    img: 25rotskoff.jpg
+    title: Assistant Professor
+    loc: New York University
+    email: rotskoff [at] cims.nyu.edu
+  - name: Stephen Hackler
+    img:
+    title: Graduate Student
+    loc: University of Pennsylvania
+    email: shackler [at] sas.upenn.edu
+    
+Course Assistant:
+  - name: Molly Bassette
+    img: 26bassette.jpg
+    title: Research Assistant
+    loc: Kansas State University
+    email: molly.bassette [at] gmail.com
